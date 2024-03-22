@@ -1,0 +1,36 @@
+*NEW FILE
+
+-- git init
+
+-- git status
+
+-- git add .
+
+-- git status
+
+-- git commit -m "Initial commit"
+
+-- git status
+
+-- git remote add origin (: ssh - link)
+
+-- git push origin master
+
+-- git push origin master --force
+
+
+*EXISTING FILE
+
+-- git status
+
+-- git add .
+
+-- git status
+
+-- git commit -m "Initial commit"
+
+-- git push origin master
+
+-- git push origin master --force
+
+
