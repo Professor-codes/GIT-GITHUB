@@ -34,3 +34,35 @@
 -- git push origin master --force
 
 
+*PREVIOUS COMMIT
+
+-- git checkout FILE_NAME
+
+-- git checkout -f (for all)
+
+
+*SHOW GIT COMMITS 
+
+-- git log (show all commits)
+
+-- git log -p -1 (show 1 commit)
+
+
+*GIT  DIFF 
+
+-- git diff
+
+-- git diff --staged
+
+
+*FILE REMOVE
+
+-- git rm FILE_NAME
+
+-- git rm --cached FILE_NAME
+
+
+*CREATE GITIGNORE
+
+-- touch .gitignore
+
